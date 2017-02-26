@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-midnight
 layout: post
 title: Welcome to Digital Teams
 ---
